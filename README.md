@@ -2,4 +2,4 @@
 
 # Docker Image with SBT
 
-:tada: With Vault as well :tada:
+:tada: Needed a docker jvm image with scala, sbt and Vault.:tada:
